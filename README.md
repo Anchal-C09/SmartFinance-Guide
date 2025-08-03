@@ -45,6 +45,23 @@ The purpose of Smart Finance Guide is to:
 - IBM Cloud Object Storage
 
 ---
+## 🖼️ Screenshots
+### 🔹 Setting up..
+![Setup & preview image](set%20up.png)
+### 🔹 Agent Instructions...
+![Agent Instructions image](agent%20instructions.png)
+### 🔹 Tools used & Testing...
+![Tool Used & Testing image](Tools.png)
+### 🔹 Deployment & Preview...
+![Deployment & Testing image](testing.png)
+### 🔹 API References after Deployment...
+![api _references image](API.png)
+### 🔹 Resources List...
+![resourses_list image](Resources.png)
+
+---
+
+
 ## 🚀 How to Set Up & Deploy Fin.ai
 
 Follow these steps to launch and deploy the Smart Finance Guide using IBM Cloud and Watsonx.ai:
